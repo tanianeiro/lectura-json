@@ -1,0 +1,8 @@
+{
+    "colores": ["verde", "azul", "amarillo", "morado"],
+    "numeros": [1,2,3,4],
+    "nombre":{
+        "firstName": "tania",
+        "lastName": "neiro"
+    }
+}
