@@ -1,8 +1,5 @@
 {
-    "nombre": {
-        "primerNombre": "Tania",
-        "segundoNombre": "Neiro Vieites"
-    },
+    "nombre": "Tania Neiro Vieites",
     "email": "tanitanv1992@gmail.com",
     "nacimiento":"15/03/1992",
     "lugar":"Santiago de Compostela",
