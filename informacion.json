@@ -1,0 +1,21 @@
+{
+    "nombre": {
+        "primerNombre": "Tania",
+        "segundoNombre": "Neiro Vieites"
+    },
+    "email": "tanitanv1992@gmail.com",
+    "nacimiento":"15/03/1992",
+    "lugar":"Santiago de Compostela",
+    "telefono":"606",
+
+   "formacion": [
+       "Desarrollo de tecnología web Año:2022", 
+       "Audiovisual Año:2022", 
+       "Técnico superior Guía,información y asistencia turística. Año:2019",
+       "Técnico superior en Proyectos de obra civil. Año:2013"
+   ],
+    "formación complementararia":[
+        "curso de unity. Año:2021", "Gestión y diseño de almacenes. Año:2020"
+    ],
+    "competencias":["Html", "Css", "JavaScript", "Vue", "Sql", "Autocad", "Gimp","Github", "Unity"]
+}
