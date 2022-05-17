@@ -3,16 +3,46 @@
     "email": "tanitanv1992@gmail.com",
     "nacimiento":"15/03/1992",
     "lugar":"Santiago de Compostela",
-    "telefono":"606",
+    "telefono":"606022383",
 
-   "formacion": [
-       "Desarrollo de tecnología web Año:2022", 
-       "Audiovisual Año:2022", 
-       "Técnico superior Guía,información y asistencia turística. Año:2019",
-       "Técnico superior en Proyectos de obra civil. Año:2013"
-   ],
-    "formación complementararia":[
-        "curso de unity. Año:2021", "Gestión y diseño de almacenes. Año:2020"
+   "formacion1": [{
+       "ciclo1":"Ciclo superior de Guía, Información y Asistencia Turísticas", 
+       "ciclo2":"IES Plurilingüe Rosalía de Castro en Santiago de compostela 2019",
+       "ciclo3":"Ingeniería de caminos, canales y puertos",
+       "ciclo4":"UDC de la Coruña en Coruña 2017",
+       "ciclo5":"Ciclo superior de Proyectos de Obra Civil",
+       "ciclo6":"IES As Fontiñas en Santiago de Compostela 2013",
+   }],
+    "complementararia":[
+        "(IFCD0210) Desarrollo de aplicaciones con tecnologías web",
+        "Cersia, Santiago de Compostela 2021",
+        "(IMSV0209) Desarrollo de productos multimedia interactivos",
+        "Cersia, Santiago de Compostela 2021",
+        "Certificado  profesional en organización y gestión de almacenes",
+        "Gdoce, Santiago de Compostela 2020",
+        "Curso de Arcgis 2021",
+        "Curso acompañante de transporte escolar Recursos Galicia (25h) 2020",
+        "Certificado en Técnicas de Escaparatismo",
+        "Asociación Área empresarial do Tambre, Santiago de Compostela (30H) 2019",
     ],
-    "competencias":["Html", "Css", "JavaScript", "Vue", "Sql", "Autocad", "Gimp","Github", "Unity"]
+    "competencias":["AutoCAD", "Mdt", "Html", "CSS", "Js", "Vue", "Github", "Gimp", "Photochop", 
+        "Utilización de aparatos topográficos"],
+    "experiencia":[
+        "Obradoiro de empleo Santiago sustentable3", 
+        "Empresa: Cersia  Lugar: Santiago de Compostela 2021",
+        "Administración y organización de mercancía",
+        "Prácticas en Mediamarkt Lugar: Santiago de Compostela 2020",
+        "Atención al cliente",
+        "FCT en la oficina de Acogida al Peregrino Lugar: Santiago de Compostela 2019",
+        "Replanteamientos topográficos",
+        "FCT en el Consorcio de Santiago Lugar: Santiago de Compostela 2013",
+        "Azafata en el Fairway",
+        "Lugar: Congreso de Santiago de Compostela 2019",
+    ],
+    "otros":[
+       "Certificado de riesgos laborales en la construcción de (60h)",
+       "Carnet de carretillas elevadoras (8h)",
+       "Certificado de Prevención de Riesgos Laborales, nivel básico (45h)",
+       "Carnet de manipulador de alimentos+ formación en alérgenos 2019",
+    ],
 }
